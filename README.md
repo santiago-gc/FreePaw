@@ -5,7 +5,7 @@ Working principle:
 
 • The customer shares his location and then requests the service for a slected time period and fare.
 
-• The service request is visible to the dog walker, if he decides accepts it, a confirmation is sent to the customer and he can check the dog walker location.
+• The service request is visible to the dog walker, if he accepts it, a confirmation is sent to the customer, who can check the dog walker location via GPS.
 
 • The dog walker reaches the customer's location to pick up the dog.
 
