@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066337522678",
+    "firebase_url": "https://freepaw-4fb68.firebaseio.com",
+    "project_id": "freepaw-4fb68",
+    "storage_bucket": "freepaw-4fb68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066337522678:android:a3892a89ccf214a662add7",
+        "android_client_info": {
+          "package_name": "com.wpam.freepaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066337522678-08o6ub91ho7pn3gj1lvkjfq22mavlaui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wpam.freepaw",
+            "certificate_hash": "2fd570995c70021a00a1a4dbaf74b2c22a969f8e"
+          }
+        },
+        {
+          "client_id": "1066337522678-94rnv9h1jl0hmdsdfjih9c4hlr900ev2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZi2KpaxCzyf95V8-lxToZ35s-RFN6FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066337522678-94rnv9h1jl0hmdsdfjih9c4hlr900ev2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
